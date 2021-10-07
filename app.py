@@ -22,3 +22,5 @@ def send_sms():
 @app.route('/v1/check_serial')
 def check_serial():
     pass
+
+
